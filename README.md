@@ -64,7 +64,7 @@ The **Smart Canteen Management System** is designed to modernize the canteen exp
 ## 🎨 UI Design
 The UI will feature a modern, responsive dashboard with role-based navigation, and support for both light and dark themes.
 
-🔗 **Figma Link:** [Smart Canteen Management System UI Design](https://www.figma.com/file/YourDesignLink)
+🔗 **Figma Link:** Smart Canteen Management System | FIGMA. (n.d.). Figma. https://www.figma.com/community/file/1531246323983921162
 
 ---
 
